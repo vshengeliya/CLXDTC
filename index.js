@@ -10,8 +10,8 @@ function clorox(num) {
             console.log ("DTC")
         } else {
             console.log (i)
-        }
-    }
-}
+        };
+    };
+};
 
 clorox(100)
