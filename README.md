@@ -6,4 +6,4 @@ To run the function:
 
 * git clone the repo to the local computer
 * cd into folder `CLXDTC`
-* to run the function in NodeJs, type `node index.js' to see the output in the console
+* to run the function in NodeJs, type `node index.js` to see the output in the console
